@@ -72,4 +72,4 @@ python3 manage.py runserver #
 you can use your own Llama3-8b-8192 API KEY.
 
 ## Demo recording 
-[Demo-video/geeksteam-demo.mp4](./Demo-video/geeksteam-demo.mp4) 
+[Demo-video/](./Demo-video) 
