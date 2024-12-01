@@ -23,7 +23,7 @@ In the [notebooks/analysis.ipynb](./notebooks/analysis.ipynb) We have explored t
 ## Technologies Used
 
 - **Backend**: Django
-- **Frontend**: HTML, CSS, and JavaScript
+- **Frontend**: HTML, CSS, and JavaScript (Yes we old school)
 - **Embedding Model**: [Electra-French](https://huggingface.co/antoinelouis/biencoder-electra-base-mmarcoFR)
 - **LLM**: Llama3-8b-8192 for multilingual response generation
 - **Vector Database**: Pinecone for storing and querying embeddings
@@ -72,4 +72,4 @@ python3 manage.py runserver #
 you can use your own Llama3-8b-8192 API KEY.
 
 ## Demo recording 
-[Demo-video/geeksteam-demo.mp4](./Demo-video/geeksteam-demo.mp4] 
+[Demo-video/geeksteam-demo.mp4](./Demo-video/geeksteam-demo.mp4) 
